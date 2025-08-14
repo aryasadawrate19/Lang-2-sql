@@ -1,0 +1,12 @@
+streamlit
+mysql-connector-python
+langchain-core
+langchain-community
+python-dotenv
+pandas
+google-ai-generativelanguage
+google-generativeai
+openpyxl
+xlrd
+numpy
+uuid
